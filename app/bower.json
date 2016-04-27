@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "main": "app.js",
+  "homepage": "https://github.com/afield/mySite",
+  "authors": [
+    "afield <afield@brainstation.io>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-ui-router": "ui-router#^0.2.18",
+    "angular-ui-bootstrap": "^1.2.2",
+    "angular-jwt": "^0.0.9"
+  }
+}
